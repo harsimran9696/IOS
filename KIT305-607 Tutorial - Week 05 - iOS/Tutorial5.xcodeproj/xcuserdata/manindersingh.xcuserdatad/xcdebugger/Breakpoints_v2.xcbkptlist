@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7D84B0AA-589C-4E39-9F79-344A9104E824"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18A6AE61-A783-4FF7-9693-EA03F20ED4B3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tutorial5/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD29A7AA-AE38-428F-85A7-CABCE497ADAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tutorial5/MovieUITableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "582BB70F-FD9E-4425-90A0-72B1E938ED71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tutorial5/MovieUITableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA39C6B6-7834-46A0-ABC7-EB3FCAEA1525"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tutorial5/MovieUITableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "MovieUITableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FA39C6B6-7834-46A0-ABC7-EB3FCAEA1525 - f363fd15c0a33992"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tutorial5.MovieUITableViewCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Tutorial5.MovieUITableViewCell"
+                  moduleName = "Tutorial5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manindersingh/Desktop/Dev-profile/Udemy%20Course/IOS-1/KIT305-607%20Tutorial%20-%20Week%2005%20-%20iOS/Tutorial5/MovieUITableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "FA39C6B6-7834-46A0-ABC7-EB3FCAEA1525 - a1708a8648c823c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tutorial5.MovieUITableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Tutorial5.MovieUITableViewCell"
+                  moduleName = "Tutorial5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manindersingh/Desktop/Dev-profile/Udemy%20Course/IOS-1/KIT305-607%20Tutorial%20-%20Week%2005%20-%20iOS/Tutorial5/MovieUITableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "FA39C6B6-7834-46A0-ABC7-EB3FCAEA1525 - afbf83ba2450ff60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tutorial5.MovieUITableViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tutorial5.MovieUITableViewCell&gt;"
+                  moduleName = "Tutorial5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manindersingh/Desktop/Dev-profile/Udemy%20Course/IOS-1/KIT305-607%20Tutorial%20-%20Week%2005%20-%20iOS/Tutorial5/MovieUITableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "FA39C6B6-7834-46A0-ABC7-EB3FCAEA1525 - f0f159073453da63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tutorial5.MovieUITableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Tutorial5.MovieUITableViewCell&gt;"
+                  moduleName = "Tutorial5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manindersingh/Desktop/Dev-profile/Udemy%20Course/IOS-1/KIT305-607%20Tutorial%20-%20Week%2005%20-%20iOS/Tutorial5/MovieUITableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "FA39C6B6-7834-46A0-ABC7-EB3FCAEA1525 - 1efbf93a3111acc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Tutorial5.MovieUITableViewCell.__deallocating_deinit"
+                  moduleName = "Tutorial5"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manindersingh/Desktop/Dev-profile/Udemy%20Course/IOS-1/KIT305-607%20Tutorial%20-%20Week%2005%20-%20iOS/Tutorial5/MovieUITableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9CA4179-7584-435A-9630-1D953E299A46"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tutorial5/MovieUITableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
